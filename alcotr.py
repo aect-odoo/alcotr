@@ -1,4 +1,5 @@
-from typing import List
+#from typing import List
+#python3
 timesToBeExecuted = 5 #used in functions to determine if they have to be executed
 # string variables
 greetings = 'Hi,'
@@ -14,7 +15,7 @@ wrongWord = str('try again!!')
 secretWord = str("master")
 passwordYey = str('that was the secret password, you won')
 passwwordKey = str("admin")
-positiveAnswer: list[str] = ['y', 'Y', 'yes', 'Yes', 'YES', 'sure', 'yep', 'si']
+positiveAnswer = ['y', 'Y', 'yes', 'Yes', 'YES', 'sure', 'yep', 'si']
 
 # functions
 def passwordyeyprint():
