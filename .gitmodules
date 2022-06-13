@@ -1,0 +1,4 @@
+[submodule "cortestalberto/AdvertisingSpace"]
+	path = cortestalberto/AdvertisingSpace
+	url = git@github.com:cortestalberto/AdvertisingSpace.git
+	branch = Production
